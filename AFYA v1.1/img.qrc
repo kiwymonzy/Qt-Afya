@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/ucc.png</file>
+        <file>img/about.jpg</file>
+        <file>img/calendar.svg</file>
+        <file>img/cancel.png</file>
+        <file>img/folder.png</file>
+        <file>img/refresh.png</file>
+        <file>img/send.png</file>
+        <file>img/NetOff.png</file>
+        <file>img/NetOn.png</file>
+        <file>img/boy.png</file>
+        <file>img/open.png</file>
+        <file>img/delete1.png</file>
+        <file>img/save1.png</file>
+        <file>img/settings1.png</file>
+        <file>img/registration/images/ucc.png</file>
+        <file>img/registration/images/cancel.png</file>
+        <file>img/registration/images/load.png</file>
+        <file>img/registration/images/save.png</file>
+        <file>img/registration/images/exit.png</file>
+        <file>img/registration/images/exit_rect.png</file>
+        <file>img/registration/images/tab.png</file>
+        <file>img/registration/images/qrcode.png</file>
+        <file>img/registration/images/daily_patient.png</file>
+        <file>img/registration/images/load_doctor.png</file>
+        <file>img/registration/images/ask.png</file>
+        <file>img/registration/images/particulars.png</file>
+        <file>img/registration/images/bg.png</file>
+        <file>img/icon.ico</file>
+    </qresource>
+</RCC>

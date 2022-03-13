@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg/05.png</file>
+        <file>img/icon/ICON_BILLING.png</file>
+        <file>img/icon/ICON_CLOSE.png</file>
+        <file>img/icon/ICON_PATIENT.png</file>
+        <file>img/icon/ICON_PATIENT.svg</file>
+        <file>img/icon/ICON_REPORT.png</file>
+        <file>img/icon/ICON_REPORT@2x.png</file>
+        <file>img/icon/ICON_SPECIALIST.png</file>
+        <file>img/icon/PROFILE PICTURE.png</file>
+        <file>img/icon/qrcode2.png</file>
+        <file>img/png/10 Duct.png</file>
+        <file>img/png/13.png</file>
+        <file>img/png/32.png</file>
+        <file>img/png/4.png</file>
+        <file>img/png/47.png</file>
+        <file>img/png/60.png</file>
+        <file>img/png/75.png</file>
+        <file>img/png/Crepe vermelho.png</file>
+        <file>img/png/LC_01_by_wonderlex.png</file>
+        <file>img/png/Lilith-Trash  (2).png</file>
+        <file>img/png/Lilith-Trash  (49).png</file>
+        <file>img/png/Lilith-Trash  (63).png</file>
+        <file>img/png/Lilith-Trash  (65).png</file>
+    </qresource>
+</RCC>
